@@ -1,0 +1,19 @@
+{
+  "name": "kt-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.26",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2"
+  }
+}
